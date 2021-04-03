@@ -1,8 +1,6 @@
 # SKKU:MEET 
 
 ![image](https://user-images.githubusercontent.com/55489991/113478860-71495980-94c6-11eb-9c67-114229e805fc.png)
-
-## Brief Explanation About the Project
 - Revolutionary Online Education Platform for School using Real-Time Eye Tracking Software
 
 
