@@ -4,4 +4,4 @@
 - proposal
 - requirement specification
 - design specification
-- test specification
+- test plan document
